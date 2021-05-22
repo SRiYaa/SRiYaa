@@ -21,7 +21,10 @@ Apart from coding, I also spend time in __*photography*__ & creating __*artworks
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=orange) <br>
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-Sriya%20Chettebhaktula-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/sriya-chettebhaktula-2941a5194)](https://www.linkedin.com/in/sriya-chettebhaktula-2941a5194)
 
 📈 My GitHub Stats
 
@@ -32,9 +35,10 @@ Apart from coding, I also spend time in __*photography*__ & creating __*artworks
 <br>
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=SRiYaa&theme=c9cacc&icon" />
+<a href="https://github.com/SRiYaa/SRiYaa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SRiYaa&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffa500&bg_color=1d1f21" alt="Sriya's GitHub Stats" />
+</a>
 
-
-
-
+<br><br>
+Have a nice day !
 
